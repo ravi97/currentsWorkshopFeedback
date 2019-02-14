@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Currents Feedback</string>
+
+    <string-array name="workshops">
+        <item>FPGA</item>
+        <item>PCB Design</item>
+        <item>Electromyography</item>
+        <item>Hybrid Electrical Sytems</item>
+        <item>Gesture control Robotics</item>
+        <item>Embedded System Design</item>
+        <item>Image Processing using Machine Learning</item>
+        <item>Industrial Automation using PLC and SCADA</item>
+
+
+    </string-array>
+    <string-array name="events">
+        <item>Dhruva</item>
+        <item>Tech quiz</item>
+        <item>Colloqiuim</item>
+        <item>Line follower</item>
+        <item>Code currents</item>
+        <item>Electronic Arts</item>
+        <item>Capture currents</item>
+    </string-array>
+
+    <string name="workshop_q1">1.kbkwrv</string>
+    <string name="workshop_q2">1.kbkwrv</string>
+    <string name="workshop_q3">1.kbkwrv</string>
+    <string name="workshop_q4">1.kbkwrv</string>
+    <string name="workshop_q5">1.kbkwrv</string>
+
+    <string name="events_q1">1.kbkwrv</string>
+    <string name="events_q2">1.kbkwrv</string>
+    <string name="events_q3">1.kbkwrv</string>
+    <string name="events_q4">1.kbkwrv</string>
+    <string name="events_q5">1.kbkwrv</string>
+
+</resources>
